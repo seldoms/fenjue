@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="340" viewBox="0 0 760 340" font-family="'PingFang SC','Microsoft YaHei',sans-serif">
+  <rect width="760" height="340" rx="16" fill="#f6f8fa"/>
+  <text x="40" y="52" font-size="24" font-weight="bold" fill="#1f2328">新同事档案</text>
+  <circle cx="105" cy="150" r="52" fill="#dbeafe"/>
+  <circle cx="105" cy="132" r="20" fill="#3b82f6"/>
+  <path d="M63 190c6-26 22-38 42-38s36 12 42 38z" fill="#3b82f6"/>
+  <text x="105" y="238" text-anchor="middle" font-size="15" fill="#57606a">AI（你的新同事）</text>
+  <g font-size="17" fill="#1f2328">
+    <text x="205" y="112">读过的书：<tspan font-weight="bold">几乎全世界</tspan></text>
+    <text x="205" y="152">手速：<tspan font-weight="bold">两分钟写一份总结</tspan></text>
+    <text x="205" y="192">记性：<tspan font-weight="bold">写下来，才记得住</tspan></text>
+    <text x="205" y="232">现场经验：<tspan font-weight="bold">零——你的事，你得告诉它</tspan></text>
+    <text x="205" y="272">脾气：<tspan font-weight="bold">特别好，但不知道的时候会编</tspan></text>
+  </g>
+  <text x="40" y="316" font-size="14" fill="#57606a">使唤它的三句话：该交代的交代清楚，该核实的自己核实，该写下来的写下来。</text>
+</svg>

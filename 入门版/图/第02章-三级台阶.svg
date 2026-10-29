@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" font-family="'PingFang SC','Microsoft YaHei',sans-serif">
+  <rect width="760" height="360" rx="16" fill="#f6f8fa"/>
+  <text x="40" y="50" font-size="24" font-weight="bold" fill="#1f2328">AI 的三级台阶</text>
+  <rect x="40" y="240" width="200" height="70" rx="8" fill="#dbeafe"/>
+  <rect x="280" y="170" width="200" height="140" rx="8" fill="#bfdbfe"/>
+  <rect x="520" y="100" width="200" height="210" rx="8" fill="#93c5fd"/>
+  <g fill="#1f2328" text-anchor="middle">
+    <text x="140" y="270" font-size="19" font-weight="bold">第一级 · 会聊天</text>
+    <text x="140" y="295" font-size="14">问一句，答一句</text>
+    <text x="380" y="200" font-size="19" font-weight="bold">第二级 · 干完整的活</text>
+    <text x="380" y="225" font-size="14">给材料和要求</text>
+    <text x="380" y="247" font-size="14">交一整件成品</text>
+    <text x="620" y="130" font-size="19" font-weight="bold">第三级 · 自己跑流程</text>
+    <text x="620" y="155" font-size="14">给目标和规矩</text>
+    <text x="620" y="177" font-size="14">它分步去干（agent）</text>
+    <text x="620" y="215" font-size="14" fill="#374151">巡检 · 验证 · 定期整理</text>
+  </g>
+  <text x="40" y="338" font-size="14" fill="#57606a">不是高级的取代低级的，是活分三类：查句话用一级，交成品用二级，跑流程用三级。</text>
+</svg>

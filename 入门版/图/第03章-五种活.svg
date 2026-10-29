@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330" font-family="'PingFang SC','Microsoft YaHei',sans-serif">
+  <rect width="760" height="330" rx="16" fill="#f6f8fa"/>
+  <text x="40" y="50" font-size="24" font-weight="bold" fill="#1f2328">AI 能干的五种活</text>
+  <g text-anchor="middle">
+    <rect x="40" y="80" width="208" height="100" rx="10" fill="#dbeafe"/>
+    <text x="144" y="122" font-size="19" font-weight="bold" fill="#1f2328">写和改</text>
+    <text x="144" y="150" font-size="14" fill="#374151">周报 · 邮件 · 压长篇</text>
+    <rect x="276" y="80" width="208" height="100" rx="10" fill="#bfdbfe"/>
+    <text x="380" y="122" font-size="19" font-weight="bold" fill="#1f2328">读和查</text>
+    <text x="380" y="150" font-size="14" fill="#374151">提要点 · 找异常 · 对数</text>
+    <rect x="512" y="80" width="208" height="100" rx="10" fill="#93c5fd"/>
+    <text x="616" y="122" font-size="19" font-weight="bold" fill="#1f2328">写代码</text>
+    <text x="616" y="150" font-size="14" fill="#374151">小工具 · 改代码 · 讲代码</text>
+    <rect x="158" y="200" width="208" height="100" rx="10" fill="#bfdbfe"/>
+    <text x="262" y="242" font-size="19" font-weight="bold" fill="#1f2328">看和听</text>
+    <text x="262" y="270" font-size="14" fill="#374151">认报错图 · 录音转文字</text>
+    <rect x="394" y="200" width="208" height="100" rx="10" fill="#60a5fa"/>
+    <text x="498" y="242" font-size="19" font-weight="bold" fill="#ffffff">干流程</text>
+    <text x="498" y="270" font-size="14" fill="#ffffff">巡检 · 验证 · 定期跑</text>
+  </g>
+</svg>
