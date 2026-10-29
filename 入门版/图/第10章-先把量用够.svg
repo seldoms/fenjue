@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330" font-family="'PingFang SC','Microsoft YaHei',sans-serif">
+  <rect width="760" height="330" rx="16" fill="#f6f8fa"/>
+  <text x="40" y="50" font-size="24" font-weight="bold" fill="#1f2328">第一个月：先把量用够</text>
+  <g fill="#93c5fd">
+    <rect x="40" y="80" width="34" height="34" rx="6"/><rect x="86" y="80" width="34" height="34" rx="6"/><rect x="132" y="80" width="34" height="34" rx="6"/><rect x="178" y="80" width="34" height="34" rx="6"/><rect x="224" y="80" width="34" height="34" rx="6"/><rect x="270" y="80" width="34" height="34" rx="6"/><rect x="316" y="80" width="34" height="34" rx="6"/>
+    <rect x="40" y="126" width="34" height="34" rx="6"/><rect x="86" y="126" width="34" height="34" rx="6"/><rect x="132" y="126" width="34" height="34" rx="6"/><rect x="178" y="126" width="34" height="34" rx="6"/><rect x="224" y="126" width="34" height="34" rx="6"/><rect x="270" y="126" width="34" height="34" rx="6"/><rect x="316" y="126" width="34" height="34" rx="6"/>
+    <rect x="40" y="172" width="34" height="34" rx="6"/><rect x="86" y="172" width="34" height="34" rx="6"/><rect x="132" y="172" width="34" height="34" rx="6"/><rect x="178" y="172" width="34" height="34" rx="6"/><rect x="224" y="172" width="34" height="34" rx="6"/><rect x="270" y="172" width="34" height="34" rx="6"/><rect x="316" y="172" width="34" height="34" rx="6"/>
+    <rect x="40" y="218" width="34" height="34" rx="6"/><rect x="86" y="218" width="34" height="34" rx="6"/><rect x="132" y="218" width="34" height="34" rx="6"/><rect x="178" y="218" width="34" height="34" rx="6"/><rect x="224" y="218" width="34" height="34" rx="6"/><rect x="270" y="218" width="34" height="34" rx="6"/><rect x="316" y="218" width="34" height="34" rx="6"/>
+  </g>
+  <text x="40" y="286" font-size="14" fill="#57606a">30 天，天天让它真干活——格子填满之日，手感已成。</text>
+  <g font-size="17" fill="#1f2328">
+    <text x="410" y="120" font-weight="bold">每天记三行：</text>
+    <text x="410" y="158">一、今天用它干了什么</text>
+    <text x="410" y="196">二、哪一次它错了</text>
+    <text x="410" y="234">三、我哪句话没说清</text>
+  </g>
+  <text x="410" y="286" font-size="14" fill="#57606a">一个月后，这 90 行就是你自己的经验库。</text>
+</svg>
