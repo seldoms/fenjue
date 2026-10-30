@@ -5,19 +5,7 @@
 
 agent 干得好不好，先看你给它的环境怎么样：权限、规矩、方法、目标四样给齐，它才能自己往前跑；四样不给齐，它就只能陪你聊天。
 
-## 一眼看懂
-
-```mermaid
-flowchart LR
-    A[权限 分得清] --> E[环境设好]
-    B[策略 说得明] --> E
-    C[方法 给到位] --> E
-    D[目标 划得清] --> E
-    E --> F[它才能自己跑]
-    classDef a fill:#dbeafe,stroke:#2563eb,color:#1f2328;
-    classDef b fill:#dcfce7,stroke:#16a34a,color:#1f2328;
-    classDef c fill:#fef3c7,stroke:#d97706,color:#1f2328;
-```
+![先给它搭好台：权限、规矩、方法、目标四样齐了，它才能自己往前跑](图/插画-第12章-给agent创造工作环境.svg)
 
 
 ## 真事
