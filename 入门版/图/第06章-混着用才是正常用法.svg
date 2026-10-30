@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif">
+<rect width="960" height="360" rx="18" fill="#f6f8fa"/>
+<circle cx="905" cy="18" r="70" fill="#dbeafe" opacity="0.55"/>
+<circle cx="40" cy="345" r="46" fill="#dcfce7" opacity="0.6"/>
+<text x="44" y="58" font-size="27" font-weight="bold" fill="#1f2328">混着用，才是正常用法</text>
+<rect x="44" y="92" width="204" height="158" rx="12" fill="#dbeafe"/>
+<circle cx="74" cy="124" r="15" fill="#1f2328"/>
+<text x="74" y="130" text-anchor="middle" font-size="14" font-weight="bold" fill="#ffffff">1</text>
+<text x="146" y="168" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2328">先看活</text>
+<text x="146" y="204" text-anchor="middle" font-size="13.5" fill="#374151">写作查证代码</text>
+<path d="M 250 163 l 10 8 l -10 8" stroke="#9ca3af" stroke-width="3" fill="none" stroke-linecap="round"/>
+<rect x="266" y="92" width="204" height="158" rx="12" fill="#e0e7ff"/>
+<circle cx="296" cy="124" r="15" fill="#1f2328"/>
+<text x="296" y="130" text-anchor="middle" font-size="14" font-weight="bold" fill="#ffffff">2</text>
+<text x="369" y="168" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2328">再选工具</text>
+<text x="369" y="204" text-anchor="middle" font-size="13.5" fill="#374151">长板对上需求</text>
+<path d="M 473 163 l 10 8 l -10 8" stroke="#9ca3af" stroke-width="3" fill="none" stroke-linecap="round"/>
+<rect x="489" y="92" width="204" height="158" rx="12" fill="#dcfce7"/>
+<circle cx="519" cy="124" r="15" fill="#1f2328"/>
+<text x="519" y="130" text-anchor="middle" font-size="14" font-weight="bold" fill="#ffffff">3</text>
+<text x="591" y="168" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2328">重要结果</text>
+<text x="591" y="204" text-anchor="middle" font-size="13.5" fill="#374151">换一家核对</text>
+<path d="M 696 163 l 10 8 l -10 8" stroke="#9ca3af" stroke-width="3" fill="none" stroke-linecap="round"/>
+<rect x="712" y="92" width="204" height="158" rx="12" fill="#fef3c7"/>
+<circle cx="742" cy="124" r="15" fill="#1f2328"/>
+<text x="742" y="130" text-anchor="middle" font-size="14" font-weight="bold" fill="#ffffff">4</text>
+<text x="814" y="168" text-anchor="middle" font-size="20" font-weight="bold" fill="#1f2328">守住底线</text>
+<text x="814" y="204" text-anchor="middle" font-size="13.5" fill="#374151">来路不明不用</text>
+<text x="480.0" y="306" text-anchor="middle" font-size="16" fill="#57606a">工具是组合，不是站队</text>
+</svg>
