@@ -4,6 +4,20 @@
 
 你把自己的 agent 管好之后，下一步是让它去指挥公共的 agent 干活：你的判断由你的 agent 携带，变成机器能直接执行的命令，公共 agent 照着做，不猜。
 
+## 一眼看懂
+
+```mermaid
+flowchart LR
+    A[人先定判断] --> B[个人 agent 成任务单]
+    B --> C[位置和要求标全]
+    C --> D[公共 agent 执行]
+    D --> E[带证据回执]
+    classDef a fill:#dbeafe,stroke:#2563eb,color:#1f2328;
+    classDef b fill:#dcfce7,stroke:#16a34a,color:#1f2328;
+    classDef c fill:#fef3c7,stroke:#d97706,color:#1f2328;
+```
+
+
 ## 真事
 
 先说一个咱们已经在用的小东西：改页面。以前的流程是：客户说「这个按钮往左挪一点」，产品转述给开发，开发猜是哪一个按钮、挪多少，改完客户说不对，来回三轮。后来做了一个浏览器插件：在页面上直接点中那个元素、写清怎么改，标注带着元素的确切位置（XPath）发出去，执行的 agent 不用猜——是哪个、往哪挪、挪多少，全是确定的。三轮对话变一次到位。
