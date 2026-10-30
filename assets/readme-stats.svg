@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif">
+<rect width="1200" height="230" rx="18" fill="#f6f8fa"/>
+<rect x="28" y="34" width="212" height="162" rx="14" fill="#ffffff" stroke="#e5e7eb"/>
+<rect x="28" y="34" width="212" height="10" rx="5" fill="#2563eb"/>
+<text x="134" y="104" text-anchor="middle" font-size="26" font-weight="bold" fill="#1f2328">入门版</text>
+<text x="134" y="148" text-anchor="middle" font-size="21" fill="#2563eb" font-weight="bold">12 章 + 补章</text>
+<rect x="260" y="34" width="212" height="162" rx="14" fill="#ffffff" stroke="#e5e7eb"/>
+<rect x="260" y="34" width="212" height="10" rx="5" fill="#7c3aed"/>
+<text x="366" y="104" text-anchor="middle" font-size="26" font-weight="bold" fill="#1f2328">强化版</text>
+<text x="366" y="148" text-anchor="middle" font-size="21" fill="#7c3aed" font-weight="bold">23 章 + 外篇</text>
+<rect x="492" y="34" width="212" height="162" rx="14" fill="#ffffff" stroke="#e5e7eb"/>
+<rect x="492" y="34" width="212" height="10" rx="5" fill="#059669"/>
+<text x="598" y="104" text-anchor="middle" font-size="26" font-weight="bold" fill="#1f2328">实操篇</text>
+<text x="598" y="148" text-anchor="middle" font-size="21" fill="#059669" font-weight="bold">6 节动手练</text>
+<rect x="724" y="34" width="212" height="162" rx="14" fill="#ffffff" stroke="#e5e7eb"/>
+<rect x="724" y="34" width="212" height="10" rx="5" fill="#d97706"/>
+<text x="830" y="104" text-anchor="middle" font-size="26" font-weight="bold" fill="#1f2328">小问题答案</text>
+<text x="830" y="148" text-anchor="middle" font-size="21" fill="#d97706" font-weight="bold">全部配套</text>
+<rect x="956" y="34" width="212" height="162" rx="14" fill="#ffffff" stroke="#e5e7eb"/>
+<rect x="956" y="34" width="212" height="10" rx="5" fill="#dc2626"/>
+<text x="1062" y="104" text-anchor="middle" font-size="26" font-weight="bold" fill="#1f2328">持续更新</text>
+<text x="1062" y="148" text-anchor="middle" font-size="21" fill="#dc2626" font-weight="bold">每周五维护</text>
+</svg>
